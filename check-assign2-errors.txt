@@ -1,0 +1,13 @@
+--2024-07-18 23:27:31--  https://zonzorp.github.io/COMP2137/makecontainers.sh
+Resolving zonzorp.github.io (zonzorp.github.io)... 185.199.110.153, 185.199.109.153, 185.199.111.153, ...
+Connecting to zonzorp.github.io (zonzorp.github.io)|185.199.110.153|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 13218 (13K) [application/x-sh]
+Saving to: ‘/home/student/makecontainers.sh’
+
+     0K .......... ..                                         100% 26.0M=0s
+
+2024-07-18 23:27:31 (26.0 MB/s) - ‘/home/student/makecontainers.sh’ saved [13218/13218]
+
+WARNING:root:Cannot call Open vSwitch: ovsdb-server.service is not running.
+dpkg-preconfigure: unable to re-open stdin: No such file or directory
